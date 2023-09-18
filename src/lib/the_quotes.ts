@@ -1,0 +1,22 @@
+export const motivationalQuotesNorwegian: string[] = [
+  "Du har full kontroll!",
+  "Du er den beste!",
+  "Stå på, du klarer det!",
+  "Ingen fjell for høyt!",
+  "Skyt for stjernene!",
+  "Ingen hindring er for stor!",
+  "Du er uovervinnelig!",
+  "Suksess er i sikte!",
+  "Du har det som trengs!",
+  "Fortsett å pushe grenser!",
+  "Vær fryktløs!",
+  "Dette er din tid!",
+  "Gi alt du har!",
+  "Tro på deg selv!",
+  "Du er en mester i faget!",
+  "Små skritt gir store resultater!",
+  "Gjør det umulige mulig!",
+  "Du er din egen helt!",
+  "Aldri gi opp!",
+  "Tiden er nå, grip den!"
+];
